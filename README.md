@@ -1,4 +1,4 @@
-# DanaDetector <img src="./assets/danadetector.png" alt="logo" width="20"/>
+# DanaDetector <img src="./assets/danadetector.png" alt="logo" width="23"/>
 
 A tool to detect DanaBot infections.
 
