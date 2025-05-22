@@ -1,6 +1,16 @@
 # DanaDetector <img src="./assets/danadetector.png" alt="logo" width="23"/>
 
-A tool to detect DanaBot infections.
+DanaDetector is a free tool that can detect DanaBot infections and identify the malware's artifacts including:
+* Executable filename
+* DLL filename
+* TMP filename
+* Persistence
+  * Registry value name
+  * Services name
+  * Scheduled task name
+* Window information
+  * Title name
+  * Class name
 
 # Compatibility
 DanaDetector is compatible with Windows 7 through Windows 11 and supports recent versions of DanaBot.
